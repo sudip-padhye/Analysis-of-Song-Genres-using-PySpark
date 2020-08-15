@@ -51,7 +51,7 @@ Two datasets are used:
 
 10. Find out each user favourite genre
 
-<img src="images/task10_1.JPG" alt="drawing" width="800" height="300"/>
+<img src="images/task10_1.JPG" alt="drawing" width="750" height="300"/>
 
 <img src="images/task10_2.JPG" alt="drawing" width="800" height="300"/>
 
@@ -59,5 +59,5 @@ Two datasets are used:
 
 <img src="images/task11_1.JPG" alt="drawing" width="800" height="300"/>
 
-<img src="images/task11_2.JPG" alt="drawing" width="800" height="300"/>
+<img src="images/task11_2.JPG" alt="drawing" width="500" height="300"/>
 
