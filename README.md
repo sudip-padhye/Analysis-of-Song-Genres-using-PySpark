@@ -11,6 +11,12 @@ Two datasets are used:
 2. genre.csv
    https://drive.google.com/file/d/1q8VWIZFjlOP_91z0GjbCe4RpmtGVDkvz/view?usp=sharing
    - Contains: artist, genre 
+   
+## Requirements
+1. Google account to access data and run notebook on Google colab
+2. Installing pyspark
+
+> !pip install pyspark
 
 
 ## Analysis Performed
