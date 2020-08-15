@@ -39,7 +39,7 @@ Two datasets are used:
 
 7. Inner join two dataframes
 
-<img src="images/task7.JPG" alt="drawing" width="800" height="300"/>
+<img src="images/task7.JPG" alt="drawing" width="650" height="300"/>
 
 8. Find top 10 users who are fan of pop music
 
