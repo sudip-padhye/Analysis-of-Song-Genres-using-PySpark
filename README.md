@@ -19,7 +19,7 @@ Two datasets are used:
 
 2. Find all of the records of those users who have listened to Rihanna
 
-<img src="images/task2.JPG" alt="drawing" width="800" height="300"/>
+<img src="images/task2.JPG" alt="drawing" width="500" height="300"/>
 
 3. Find top 10 users who are fan of Rihanna
 
